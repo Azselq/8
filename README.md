@@ -18,10 +18,15 @@
 
 Object_root
 Object_root Object_1
+
 Object_root Object_2
+
 Object_root Object_3
+
 Object_3 Object_4
+
 Object_3 Object_5
+
 Object_6 Object_6
 
 Выходные данные
@@ -34,5 +39,7 @@ Object_6 Object_6
 Пример вывода
 
 Object_root
+
 Object_root Object_1 Object_2 Object_3
+
 Object_3 Object_4 Object_5
